@@ -24,101 +24,24 @@
 <div class="container">
 <div class="row">
 <div class="col-sm-7 col-md-8">
-   <!-- <div class="embed-responsive embed-responsive-16by9 wowload fadeInLeft"><iframe  class="embed-responsive-item" src="//player.vimeo.com/video/55057393?title=0" width="100%" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div> -->
-    <div class="embed-responsive embed-responsive-16by9 wowload fadeInLeft"><img  class="embed-responsive-item" src="images/placeholder2.jpg" width="100%" height="400" ></img></div>
+   <!-- VID <div class="embed-responsive embed-responsive-16by9 wowload fadeInLeft"><iframe  class="embed-responsive-item" src="//player.vimeo.com/video/55057393?title=0" width="100%" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div> -->
+  <!--  PIC <div class="embed-responsive embed-responsive-16by9 wowload fadeInLeft"><img  class="embed-responsive-item" src="images/placeholder2.jpg" width="100%" height="400" ></img></div> -->
+  <div class="map">
+		   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d125476.47154019884!2d122.931687470195!3d10.646250727184052!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33aed1aede61785b%3A0xea7972541b89f76b!2sBacolod%2C%20Negros%20Occidental!5e0!3m2!1sen!2sph!4v1615377455336!5m2!1sen!2sph" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+       	</div>
+    
 </div>
 <div class="col-sm-5 col-md-4">
-<h3>Reservation</h3>
-    <form role="form" class="wowload fadeInRight">
-        <div class="form-group">
-            <input type="text" class="form-control"  placeholder="Name">
-        </div>
-        <div class="form-group">
-            <input type="email" class="form-control"  placeholder="Email">
-        </div>
-        <div class="form-group">
-            <input type="Phone" class="form-control"  placeholder="Phone">
-        </div>        
-        <div class="form-group">
-            <div class="row">
-            <div class="col-xs-6">
-            <select class="form-control">
-              <option>No. of Rooms</option>
-              <option>2</option>
-              <option>3</option>
-              <option>4</option>
-              <option>5</option>
-            </select>
-            </div>        
-            <div class="col-xs-6">
-            <select class="form-control">
-              <option>No. of Adult</option>
-              <option>2</option>
-              <option>3</option>
-              <option>4</option>
-              <option>5</option>
-            </select>
-            </div></div>
-        </div>
-        <div class="form-group">
-            <div class="row">
-            <div class="col-xs-4">
-              <select class="form-control col-sm-2" name="expiry-month" id="expiry-month">
-                <option>Date</option>
-                <option value="01">1</option>
-                <option value="02">2</option>
-                <option value="03">Mar (03)</option>
-                <option value="04">Apr (04)</option>
-                <option value="05">May (05)</option>
-                <option value="06">June (06)</option>
-                <option value="07">July (07)</option>
-                <option value="08">Aug (08)</option>
-                <option value="09">Sep (09)</option>
-                <option value="10">Oct (10)</option>
-                <option value="11">Nov (11)</option>
-                <option value="12">Dec (12)</option>
-              </select>
-            </div>
-            <div class="col-xs-4">
-              <select class="form-control col-sm-2" name="expiry-month" id="expiry-month">
-                <option>Month</option>
-                <option value="01">Jan (01)</option>
-                <option value="02">Feb (02)</option>
-                <option value="03">Mar (03)</option>
-                <option value="04">Apr (04)</option>
-                <option value="05">May (05)</option>
-                <option value="06">June (06)</option>
-                <option value="07">July (07)</option>
-                <option value="08">Aug (08)</option>
-                <option value="09">Sep (09)</option>
-                <option value="10">Oct (10)</option>
-                <option value="11">Nov (11)</option>
-                <option value="12">Dec (12)</option>
-              </select>
-            </div>
-            <div class="col-xs-4">
-              <select class="form-control" name="expiry-year">
-                <option value="13">2013</option>
-                <option value="14">2014</option>
-                <option value="15">2015</option>
-                <option value="16">2016</option>
-                <option value="17">2017</option>
-                <option value="18">2018</option>
-                <option value="19">2019</option>
-                <option value="20">2020</option>
-                <option value="21">2021</option>
-                <option value="22">2022</option>
-                <option value="23">2023</option>
-              </select>
-            </div>
-          </div>
-        </div>
-        <div class="form-group">
-            <textarea class="form-control"  placeholder="Message" rows="4"></textarea>
-        </div>
-      <!--  <button class="btn btn-default">Submit</button> -->
-        <button class="btn ">Submit</button>
-    </form>    
+<h3>We serve:</h3>
+    <p> Breakfast  from 8:00 am - 2:00 pm </p>
+    <p> Breakfast  from 8:00 am - 2:00 pm </p>
+    <p> Breakfast  from 8:00 am - 2:00 pm </p>
+    <p> Breakfast  from 8:00 am - 2:00 pm </p>
+    <p> Breakfast  from 8:00 am - 2:00 pm </p>
+    <p> Breakfast  from 8:00 am - 2:00 pm </p>
+    <p> Breakfast  from 8:00 am - 2:00 pm </p>
+    <p> Breakfast  from 8:00 am - 2:00 pm </p>
+    <p> Breakfast  from 8:00 am - 2:00 pm </p>
 </div>
 </div>  
 </div>
@@ -130,8 +53,13 @@
 <!-- services -->
 <div class="spacer services wowload fadeInUp">
 <div class="container">
+  
+<h2>Our Signature Events</h2>
+
     <div class="row">
+
         <div class="col-sm-4">
+          <h4>Title title title</h4>
             <!-- RoomCarousel -->
             <div id="RoomCarousel" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
@@ -143,14 +71,16 @@
                 <a class="left carousel-control" href="#RoomCarousel" role="button" data-slide="prev"><i class="fa fa-angle-left"></i></a>
                 <a class="right carousel-control" href="#RoomCarousel" role="button" data-slide="next"><i class="fa fa-angle-right"></i></a>
             </div>
-            <!-- RoomCarousel-->
-            <div class="caption">Rooms<a href="rooms-tariff.php" class="pull-right"><i class="fa fa-edit"></i></a></div>
+            <!-- RoomCarousel-->    
+            <div class="caption">Title <a href="gallery.php" class="pull-right"><i class="fa fa-chevron-circle-right" aria-hidden="true">&nbsp <i style="
+  font-size: 14px;">Read more..</i></i></a></div>
         </div>
 
 
         <div class="col-sm-4">
+          <h4>Title title title</h4>
             <!-- RoomCarousel -->
-            <div id="TourCarousel" class="carousel slide" data-ride="carousel">
+            <div id="TourCarousel" class="carousel slide  " data-ride="carousel">
                 <div class="carousel-inner">
                 <div class="item active"><img src="images/placeholder2.jpg" class="img-responsive" alt="slide"></div>
                 <div class="item  height-full"><img src="images/placeholder2.jpg"  class="img-responsive" alt="slide"></div>
@@ -161,11 +91,13 @@
                 <a class="right carousel-control" href="#TourCarousel" role="button" data-slide="next"><i class="fa fa-angle-right"></i></a>
             </div>
             <!-- RoomCarousel-->
-            <div class="caption">Tour Packages<a href="gallery.php" class="pull-right"><i class="fa fa-edit"></i></a></div>
+            <div class="caption">Title <a href="gallery.php" class="pull-right"><i class="fa fa-chevron-circle-right" aria-hidden="true">&nbsp <i style="
+  font-size: 14px;">Read more..</i></i></a></div>
         </div>
 
 
         <div class="col-sm-4">
+          <h4>Title title title</h4>
             <!-- RoomCarousel -->
             <div id="FoodCarousel" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
@@ -177,13 +109,19 @@
                 <a class="left carousel-control" href="#FoodCarousel" role="button" data-slide="prev"><i class="fa fa-angle-left"></i></a>
                 <a class="right carousel-control" href="#FoodCarousel" role="button" data-slide="next"><i class="fa fa-angle-right"></i></a>
             </div>
-            <!-- RoomCarousel-->
-            <div class="caption">Food and Drinks<a href="gallery.php" class="pull-right"><i class="fa fa-edit"></i></a></div>
+            <!-- RoomCarousel-->    
+            <div class="caption">Title <a href="gallery.php" class="pull-right"><i class="fa fa-chevron-circle-right" aria-hidden="true">&nbsp <i style="
+  font-size: 14px;">Read more..</i></i></a></div>
         </div>
     </div>
 </div>
 </div>
 <!-- services -->
+
+
+
+
+
 
 
 <?php include 'footer.php';?>

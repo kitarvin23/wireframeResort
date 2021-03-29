@@ -13,11 +13,11 @@ p{margin-bottom: 1em;line-height: 1.5em;}
 
 
 .btn{border:none !important;border-radius: 0;padding: 5px 30px;}
-.btn-default{background:#bfa145;box-shadow: none !important;color: #fff;}
-.btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active{box-shadow: none !important;background:#756534;color: #fff;outline: none !important;}
+.btn-default{background:#be7656;box-shadow: none !important;color: #fff;}
+.btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active{box-shadow: none !important;background:#753434;color: #fff;outline: none !important;}
 
-.pagination>.active>a, .pagination>.active>span, .pagination>.active>a:hover, .pagination>.active>span:hover, .pagination>.active>a:focus, .pagination>.active>span:focus{background-color: #bfa145;border-color: #bfa145;}
-.pagination>li>a, .pagination>li>span{color: #bfa145;}
+.pagination>.active>a, .pagination>.active>span, .pagination>.active>a:hover, .pagination>.active>span:hover, .pagination>.active>a:focus, .pagination>.active>span:focus{background-color: #be7656;border-color: #be7656;}
+.pagination>li>a, .pagination>li>span{color: #be7656;}
 .spacer{padding:6em 0; }
 
 /*nav*/
@@ -45,16 +45,16 @@ p{margin-bottom: 1em;line-height: 1.5em;}
 /*reserve-info*/
 .reserve-info{background-color: #fff;}
 
-.services{background-color:#dedbd3; }
-.services .caption{background-color: #b9b2a0;color: #46433b;padding: 1.5em;}
-.services .caption a {color: #585650;font-size: 1.25em;}
+.services{background-color:#efc3a4; }
+.services .caption{background-color: #794028;color: #efc3a4;padding: 1.5em;}
+.services .caption a {color: #efc3a4;font-size: 1.25em;}
 .services .caption a:hover{color: #fff;}
 .carousel-control{width: 10%;background: none !important;}
 .carousel-control i.fa{position: absolute;left: 0;right: 0;top: 50%;margin-top: -10px;}
 .carousel img{width: 100%;}
 
 /*footer*/
-footer{background-color:#585650;color: #AEAEAC;}
+footer{background-color:#0e0504;color: #AEAEAC;}
 footer.spacer{padding: 3em 0;}
 footer h4{color: #DCDCDC;}
 footer a,footer p{line-height: 1.5em;font-size: 0.85em;color: #AEAEAC;}

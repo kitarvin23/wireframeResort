@@ -2,7 +2,7 @@
 
 <div class="container">
 
-<h1 class="title">Luxirious Suites</h1>
+<h1 class="title"> Menu #1</h1>
 
 
 

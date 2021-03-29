@@ -1,7 +1,7 @@
 <?php include 'header.php';?>
 <div class="container">
 
-       <h1 class="title">Introduction</h1>
+       <h1 class="title">About us</h1>
        <div class="row">
 
               <div class="col-sm-4"><p>Text TextText TextText TextText TextText TextText TextText TextText TextText TextText TextText TextText TextText TextText TextText TextText TextText TextText TextText TextText TextText TextText TextText TextText TextText TextText TextText TextText TextText TextText TextText TextText TextText TextText TextText TextText TextText TextText Text</p></div>

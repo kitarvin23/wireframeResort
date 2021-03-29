@@ -6,19 +6,26 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-5">
-                    <h4>Title Text Here</h4>
-                    <p>Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text v Text Text Text v 
-                    Text Text Text Text Text Text Text Text Text TextText Text TextText Text Text Text Text Text vTextText Text Text Text Text Text Text Text Text TextTextTextTextTextTextTextTextText </p>
+                    <h4>OPENING HOURS</h4>
+                    <ul class="list-unstyled">
+                        <li><a>Sunday   &nbsp &nbsp  - - - - - - - - - - - - - - - - - - - - - - </a></li>    
+                        <li><a>Monday   &nbsp &nbsp  - - - - - - - - - - - - - - - - - - - - - - </a></li> 
+                        <li><a>Tuesday   &nbsp &nbsp  - - - - - - - - - - - - - - - - - - - - - - </a></li>    
+                        <li><a>Wednesday   &nbsp &nbsp  - - - - - - - - - - - - - - - - - - - - </a></li>    
+                        <li><a>Thursday   &nbsp &nbsp  - - - - - - - - - - - - - - - - - - - - - - </a></li>   
+                        <li><a>Friday   &nbsp &nbsp  - - - - - - - - - - - - - - - - - - - - - - - - </a></li>    
+                        <li><a>Saturday   &nbsp &nbsp  - - - - - - - - - - - - - - - - - - - - - - </a></li>    
+                    </ul>
                 </div>              
                  
                  <div class="col-sm-3">
-                    <h4>Quick Links</h4>
+                    <h4>CONTACT US</h4>
                     <ul class="list-unstyled">
-                        <li><a href="rooms-tariff.php">Rooms & Tariff</a></li>        
-                        <li><a href="introduction.php">Introduction</a></li>
-                        <li><a href="gallery.php">Gallery</a></li>
-                        <li><a href="tour.php">Tour Packages</a></li>
-                        <li><a href="contact.php">Contact</a></li>
+                        <li>Text Here</li>        
+                        <li>Text Here</li>          
+                        <li>Text Here</li>         
+                        <li>Text Here</li>         
+                        <li>Text Here</li>           
                     </ul>
                 </div>
                  <div class="col-sm-4 subscribe">
@@ -77,7 +84,6 @@
 <!-- uniform -->
 <script src="assets/uniform/js/jquery.uniform.js"></script>
 
-
 <!-- boostrap -->
 <script src="assets/bootstrap/js/bootstrap.js" type="text/javascript" ></script>
 
@@ -89,7 +95,6 @@
 
 <!-- gallery -->
 <script src="assets/gallery/jquery.blueimp-gallery.min.js"></script>
-
 
 <!-- custom script -->
 <script src="assets/script.js"></script>
